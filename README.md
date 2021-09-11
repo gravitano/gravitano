@@ -2,12 +2,12 @@
 
 I am Web Developer from Indonesia.
 
-About me:
+#### About me
 
 - Frontend Developer at @gitsindonesia
 - Reach me at warsono16694@gmail.com
 
-My Stats:
+#### Github Stats
 
 [![Warsono's GitHub stats](https://github-readme-stats.vercel.app/api?username=gravitano&show_icons=true&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)
 
