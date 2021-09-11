@@ -1,18 +1,14 @@
 ### Hi there 👋
 
-<!--
-**gravitano/gravitano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Web Developer from Indonesia.
 
-Here are some ideas to get you started:
+About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend Developer at @gitsindonesia
+- Reach me at warsono16694@gmail.com
+
+My Stats:
 
 [![Warsono's GitHub stats](https://github-readme-stats.vercel.app/api?username=gravitano&show_icons=true&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gravitano&layout=compact&theme=dracula&hide_border=true" /></a>
