@@ -7,7 +7,7 @@ I am a self-taught Web Developer from Indonesia.
 - Previously working as Backend Developer at [Panenmaya Digital](https://panenmaya.com/).
 - Currently working as Frontend Developer at [GITS Indonesia](https://gits.id).
 - My current stacks are [Vue](https://vuejs.org/) + [Vite](https://vitejs.dev/) and [Tailwind CSS](https://tailwindcss.com/).
-- Also, I have experience with [React.js](https://reactjs.org/), [Nuxt.js](https://nuxtjs.org/) and [Laravel](https://laravel.com/).
+- Also, I have experience with [Nuxt.js](https://nuxtjs.org/), [React.js](https://reactjs.org/) and [Laravel](https://laravel.com/).
 - Reach me at warsono16694@gmail.com.
 
 #### Github Stats
