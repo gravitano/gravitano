@@ -4,8 +4,8 @@ I am a self-taught Web Developer from Indonesia.
 
 #### About me
 
-- Currently working as Frontend Developer at [GITS Indonesia](https://gits.id).
-- My current stacks are [Nuxt 3](https://v3.nuxtjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
+- Frontend Developer at [GITS Indonesia](https://gits.id).
+- My current stack are [Nuxt 3](https://v3.nuxtjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 - Also, I have experience with [React.js](https://reactjs.org/) and [Laravel](https://laravel.com/).
 - Reach me at warsono16694@gmail.com.
 
