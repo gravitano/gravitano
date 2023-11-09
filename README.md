@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a self-taught Web Developer from Indonesia.
+I am Warsono, a Software Engineer from Indonesia. Currently, working as Frontend Developer Lead at @gitsindonesia.
 
 #### About me
 
