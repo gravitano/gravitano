@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋 I’m **Warsono**
+>  Software Engineer | Frontend Developer @ GITS Indonesia
 
-I am Warsono, a Software Engineer from Indonesia. Currently, working as Frontend Developer at @gitsindonesia.
+---
 
-#### About me
+#### About Me
+- Currently a **Frontend Developer** at **GITS Indonesia**
+- Comfortable working with **Nuxt**, **Tailwind CSS**, and **Shadcn Vue**
+- Experienced with **React.js** and **Laravel**
+- Reach me via: **warsono16694@gmail.com**
 
-- Frontend Developer at [GITS Indonesia](https://gits.id).
-- My current stacks are [Nuxt 3](https://nuxt.com), [Tailwind CSS](https://tailwindcss.com/), and [Morpheme UI](https://gitsindonesia.github.io/ui-component/).
-- Also, I have experience with [React.js](https://reactjs.org/) and [Laravel](https://laravel.com/).
-- Reach me at warsono16694@gmail.com.
+---
 
-#### Github Stats
+####  Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gravitano&show_icons=true)
 
-[![Warsono's GitHub stats](https://github-readme-stats.vercel.app/api?username=gravitano&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gravitano&layout=compact&theme=dracula&hide_border=true" /></a>
+####  Connect with Me
+| Platform | Link |
+|----------|------|
+|  Email | warsono16694@gmail.com |
+|  Website | [warsono.dev](https://warsono.dev) |
+|  Twitter/X | [@gravitano](https://twitter.com/gravitano) |
