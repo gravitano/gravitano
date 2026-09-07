@@ -1,3 +1,7 @@
-### Hi there 👋 I'm **Warsono**
+## Hi there 👋 I'm Warsono
 
-Frontend Developer who enjoys crafting clean, accessible, and user-friendly web experiences. Currently working with Nuxt & Vue ecosystem while staying curious about modern web technology trends.
+Fullstack Software Engineer who enjoys turning ideas into products.
+
+Currently building web applications with **Laravel, Nuxt, TanStack Start, Next.js and TypeScript**, while exploring **AI agents, LLM-powered applications, and agentic software development**.
+
+I enjoy working across the stack — from crafting user experiences to designing APIs, backend systems, and shipping products end-to-end.
